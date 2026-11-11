@@ -44,3 +44,4 @@ refresh.sh
 prompt.md
 logs/
 public/data/news.new.json
+.serve/
