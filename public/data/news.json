@@ -1,338 +1,338 @@
 {
-  "generated": "2026-11-11T12:00:00Z",
-  "items": [
-    {
-      "title": "India's CERT-In issues AI Security Auditing guidelines targeting model poisoning, prompt injection, agentic AI threats",
-      "url": "https://industrialcyber.co/ai/indias-cert-in-issues-ai-security-auditing-guidelines-targeting-model-poisoning-prompt-injection-agentic-ai-threats/",
-      "source": "Industrial Cyber",
-      "date": "2026-11-09",
-      "category": "ai",
-      "kind": "article",
-      "summary": "India's national CERT published AI security auditing guidelines covering prompt injection, data and model poisoning, and excessive agency in agentic systems."
-    },
-    {
-      "title": "PlayStation 4 System Software Update 14.02: November 2026 Patch Notes",
-      "url": "https://asumetech.com/2026/11/05/ps4-system-software-update-14-02-patch-notes/",
-      "source": "AsumeTech",
-      "date": "2026-11-05",
-      "category": "device",
-      "kind": "article",
-      "summary": "Sony shipped PS4 firmware 14.02 on November 4 with security fixes and no new features. It arrived shortly after a public 14.00 jailbreak, but Sony has not said whether it targets that exploit."
-    },
-    {
-      "title": "Promising PS5 console jailbreak won't work on recent firmware as Sony combats exploits",
-      "url": "https://notebookcheck.net/Promising-PS5-console-jailbreak-won-t-work-on-recent-firmware-as-Sony-combats-exploits.1442248.0.html",
-      "source": "Notebookcheck",
-      "date": "2026-11-04",
-      "category": "device",
-      "kind": "article",
-      "summary": "Reports that the 'Prolapse' method aimed at PS5 firmware 14.00/14.10 is blocked by 14.20. The 14.22 update released November 2 added more security fixes."
-    },
-    {
-      "title": "exclusive: AI security company Gray Swan relaunches Red Team Arena contest to jailbreak AI agents",
-      "url": "https://fortune.com/2026/10/20/exclusive-ai-security-company-gray-swan-red-team-arena-contest-to-jailbreak-ai-agents/",
-      "source": "Fortune",
-      "date": "2026-10-20",
-      "category": "ai",
-      "kind": "article",
-      "summary": "Gray Swan is overhauling its public red-teaming platform for AI agents, adding sandboxed environments where participants can try to jailbreak agents safely."
-    },
-    {
-      "title": "New AI jailbreak: get your chatbot drunk",
-      "url": "https://pivot-to-ai.com/2026/09/30/new-ai-jailbreak-get-your-chatbot-drunk/",
-      "source": "Pivot to AI",
-      "date": "2026-09-30",
-      "category": "ai",
-      "kind": "article",
-      "summary": "Covers a UNSW paper reporting that telling chatbots to role-play as intoxicated weakened their guardrails on JailbreakBench and a private-data-leak benchmark."
-    },
-    {
-      "title": "PS4 Update 14.00 Released on September 16 Brings More of What You Expect",
-      "url": "https://mp1st.com/news/ps4-update-14-00-released-on-september-16-brings-what-you-expect",
-      "source": "MP1st",
-      "date": "2026-09-16",
-      "category": "device",
-      "kind": "article",
-      "summary": "Sony released PS4 system software 14.00, a security-focused update. Research notes say it patched the kernel bug used by earlier 13.xx exploits."
-    },
-    {
-      "title": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
-      "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
-      "source": "MacRumors",
-      "date": "2026-08-07",
-      "category": "device",
-      "kind": "article",
-      "summary": "Dopamine 3.0 is the first public iOS 26 jailbreak, arriving 326 days after iOS 26 launched. It supports only iOS 26.0–26.0.1 on A12 and A13 devices."
-    },
-    {
-      "title": "New PS4 CSSFontFace exploit turns a font bug into a big deal",
-      "url": "https://www.generationamiga.com/2026/07/08/new-ps4-cssfontface-exploit-turns-a-font-bug-into-a-big-deal/",
-      "source": "Generation Amiga",
-      "date": "2026-07-08",
-      "category": "device",
-      "kind": "article",
-      "summary": "Describes a WebKit CSSFontFace bug in the PS4 browser, with attention centred on firmware 9.00. The article says it is not a shortcut to a full jailbreak on current firmware."
-    },
-    {
-      "title": "The \"unhackable\" Xbox One has been hacked — and Microsoft can't patch it",
-      "url": "https://boingboing.net/2026/03/17/the-unhackable-xbox-one-has-been-hacked-and-microsoft-cant-patch-it.html",
-      "source": "Boing Boing",
-      "date": "2026-03-17",
-      "category": "device",
-      "kind": "article",
-      "summary": "Covers the 'Bliss' voltage double-glitch attack presented at RE//verse 2026, which bypasses the original Xbox One boot ROM. It needs physical access and is described as unpatchable in software."
-    },
-    {
-      "title": "PS4 Jailbreak For Firmware 14.00 Has Been Released, Allowing Users To Cheat In GTA Online",
-      "url": "https://twistedvoxel.com/ps4-jailbreak-firmware-14-00-released-cheat-in-gta-online/",
-      "source": "Twisted Voxel",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Reports that a browser-based jailbreak for PS4 firmware 14.00 has gone public, and notes concerns about it being used for online cheating."
-    },
-    {
-      "title": "PS4 Jailbreak on Firmware 14.00 Available",
-      "url": "https://www.consolemodding.it/en/blogs/news/ps4-jailbreak-firmware-14-00-available",
-      "source": "ConsoleModding.it",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "News post on a public WebKit-based exploit chain for PS4 firmware 14.00. Coverage says it loads a GoldHEN 2.4b18.x build that adds 14.00 support."
-    },
-    {
-      "title": "Reports of PlayStation 4 hack on firmware 14.00 have appeared",
-      "url": "https://en.gamegpu.com/news/zhelezo/poyavilis-soobshcheniya-o-vzlome-playstation-4-na-proshivke-14-00",
-      "source": "GameGPU",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Early report of a PS4 being compromised on firmware 14.00. It advised readers to stay skeptical about an imminent user-friendly release."
-    },
-    {
-      "title": "Sony Releases PS4 Firmware Update 14.02 With Security Fixes Following Recent Jailbreak",
-      "url": "https://twistedvoxel.com/ps4-firmware-update-14-02-security-fixes/",
-      "source": "Twisted Voxel",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Links Sony's PS4 14.02 security update to the recent 14.00 jailbreak, though Sony has not confirmed that the update closes those specific exploits."
-    },
-    {
-      "title": "New PS5 jailbreak works on almost every firmware version",
-      "url": "https://techspot.com/news/114037-new-ps5-jailbreak-works-almost-every-firmware-version.html",
-      "source": "TechSpot",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Covers the public 'Relapse' jailbreak released September 29, which chains a WebKit flaw with a kernel race condition. It covers PS5 firmware 7.00–13.60, including PS5 Pro."
-    },
-    {
-      "title": "New PS5 firmware update blocks Relapse jailbreak ahead of GTA 6 release",
-      "url": "https://arynews.tv/new-ps5-firmware-update-blocks-relapse-jailbreak-ahead-of-gta-6-release",
-      "source": "ARY News",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Reports that Sony's 14.x PS5 firmware updates block the Relapse exploit chain, and frames the timing around the upcoming GTA 6 launch."
-    },
-    {
-      "title": "Nintendo Pulls SmileBASIC 4 as Tethered Switch 2 Jailbreak ns2jb Appears",
-      "url": "https://theloadout.com/nintendo-pulls-smilebasic-4-as-tethered-switch-2-jailbreak-ns2jb-appears",
-      "source": "The Loadout",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Researcher pepsipu released ns2jb, a tethered, non-persistent Switch 2 jailbreak that uses SmileBASIC 4 on firmware 23.0.1. Nintendo then removed the app from some eShop storefronts."
-    },
-    {
-      "title": "Nintendo Switch 2 Gets a New Offline Userland Exploit That Works Across All Firmware Versions",
-      "url": "https://www.digitalcitizen.life/nintendo-switch-2-gets-a-new-offline-userland-exploit-that-works-across-all-firmware-versions/",
-      "source": "Digital Citizen",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Developer Gezine unveiled an offline userland exploit for Switch and Switch 2 that doesn't rely on WebKit. No kernel-level exploit has been confirmed."
-    },
-    {
-      "title": "Xbox hacked 2026: what is true",
-      "url": "https://pasqualepillitteri.it/en/news/30242/xbox-hacked-2026-what-is-true",
-      "source": "Pasquale Pillitteri",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Fact-check stating that no public jailbreak exists for Xbox Series X|S and no Xbox server breach is confirmed. It attributes the confusion to the Xbox One Bliss hack and the 2024 Collateral Damage exploit."
-    },
-    {
-      "title": "Magisk v30 vs KernelSU v3: Which Root Solution in 2026?",
-      "url": "https://thecustomrom.com/blog/magisk-v30-vs-kernelsu-v3",
-      "source": "TheCustomROM",
-      "date": "",
-      "category": "device",
-      "kind": "article",
-      "summary": "Compares the current Android root options, Magisk v30 and KernelSU v3, including KernelSU's new metamodule system and how each handles Play Integrity checks."
-    },
-    {
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "source": "The Hacker News",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "Check Point found that 'Haiou', a free Codex jailbreak bundle, edits agent instruction files so later responses advertise a paid third-party AI gateway. Code-focused scanners can miss this kind of plain-text persistence."
-    },
-    {
-      "title": "Prompt Adware: Jailbreak Bundles, Instruction-File Persistence, and Gray-Market Gateways",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-prompt-adware-agent-instruction-persistenc/",
-      "source": "Cloud Security Alliance Labs",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "CSA research note on the prompt-adware pattern, where jailbreak bundles persist through coding-agent instruction files and steer users to gray-market API gateways."
-    },
-    {
-      "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
-      "source": "Tom's Hardware",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "A Brazilian labor court's AI flagged hidden white-on-white text in a filing that tried to steer its review. The lawyers were fined about $16,000."
-    },
-    {
-      "title": "OpenAI raises Bio Bounty reward to $50,000 for frontier model jailbreaks",
-      "url": "https://www.edtechinnovationhub.com/news/openai-raises-bio-bounty-reward-to-50000-for-frontier-model-jailbreaks",
-      "source": "EdTech Innovation Hub",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "Reports that OpenAI expanded its private bio-safety bug bounty to cover GPT-5.6 and GPT-5.5, raising the top reward for a universal jailbreak to $50,000."
-    },
-    {
-      "title": "Hackers Turn to AI Jailbreak Bundles as Researchers Uncover New Prompt Adware Technique",
-      "url": "https://gbhackers.com/ai-jailbreak-bundles/amp/",
-      "source": "GBHackers",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "Further coverage of the Haiou jailbreak bundle, which combines role-play and CTF-framing prompt techniques with ad-injecting instructions."
-    },
-    {
-      "title": "Red-team study of frontier Anthropic models (arXiv 2606.18193)",
-      "url": "https://www.emergentmind.com/papers/2606.18193",
-      "source": "Emergent Mind / arXiv",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "June 2026 paper that ran hundreds of thousands of adaptive and static attack attempts against Anthropic models. It concludes that adaptive attacks still expose significant residual jailbreak vulnerabilities."
-    },
-    {
-      "title": "SoK: Jailbreak attacks, defenses and evaluation (arXiv 2605.05058)",
-      "url": "https://arxiv.org/html/2605.05058v1",
-      "source": "arXiv",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "May 2026 systematization paper that benchmarks 13 jailbreak attacks against 5 defenses. It finds that attack-success-rate alone often contradicts multi-dimensional evaluations."
-    },
-    {
-      "title": "Next-generation Constitutional Classifiers",
-      "url": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
-      "source": "Anthropic",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "Anthropic research update on its classifier-based jailbreak defenses. The first generation cut jailbreak success from 86% to 4.4% in testing."
-    },
-    {
-      "title": "AI jailbreaking via poetry: bypassing chatbot defenses with rhyme",
-      "url": "https://www.kaspersky.com/blog/poetry-ai-jailbreak/55171/",
-      "source": "Kaspersky",
-      "date": "",
-      "category": "ai",
-      "kind": "article",
-      "summary": "Explains a study of 25 models that found rewriting harmful requests as verse raised unsafe-response rates. Hand-picked prompts produced the highest reported bypass figures."
-    },
-    {
-      "title": "Jailbreak News: 14.22 Released, GoldHEN on 14.00, CivSwitch, BD-JB Relapse, FPKG Update & More!",
-      "url": "https://www.youtube.com/watch?v=9Zz29tcsLhg",
-      "source": "MODDED WARFARE",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "News roundup covering PS5 firmware 14.22, GoldHEN support on PS4 14.00, BD-JB Relapse and other scene updates."
-    },
-    {
-      "title": "New PS4 14.00 Jailbreak Release: What You Need to Know",
-      "url": "https://www.youtube.com/watch?v=Bl-qxDO0D9E",
-      "source": "Mod My PS",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "Overview of the newly public PS4 firmware 14.00 jailbreak and what it means for users."
-    },
-    {
-      "title": "The Current State Of The PS4 14.00 Jailbreak.",
-      "url": "https://www.youtube.com/watch?v=qO67stBj3xc",
-      "source": "TheXpertGee",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "Status update on jailbreak progress for PS4 firmware 14.00."
-    },
-    {
-      "title": "The PS4 Jailbreak Situation in 2026: Everything You Need to Know",
-      "url": "https://www.youtube.com/watch?v=YZrjOucNCH4",
-      "source": "Better Gaming",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "Explainer on which PS4 firmware versions can be jailbroken in 2026. It says support reaches 14.00 and that 14.02 has only a private demo."
-    },
-    {
-      "title": "PS4 Jailbreak News Update: BD-J Sandbox Escape Confirmed on 13.50 and below",
-      "url": "https://www.youtube.com/watch?v=EnG54Y7tfyo",
-      "source": "TheXpertGee",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "Reports a confirmed BD-J (Blu-ray Java) sandbox escape affecting PS4 firmware 13.50 and earlier."
-    },
-    {
-      "title": "PS4/PS5 Jailbreak News: New WebKit and Blu-Ray Userland exploits revealed up to the latest firmwares",
-      "url": "https://www.youtube.com/watch?v=mWX9uj0mKIQ",
-      "source": "MODDED WARFARE",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "Covers newly disclosed WebKit and Blu-ray userland bugs affecting PS4 up to 13.52 and PS5 up to 13.60."
-    },
-    {
-      "title": "PS4/PS5 Jailbreak News: 13.50 PS4 & 13.00 PS5 Firmware Released, PSVue Patched, Luac0re 2.1 & More!",
-      "url": "https://www.youtube.com/watch?v=lOX67YUr4BA",
-      "source": "MODDED WARFARE",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "News roundup on PS4 firmware 13.50 patching the Vue-after-Free exploit, the PS5 13.00 release, and a Luac0re 2.1 update."
-    },
-    {
-      "title": "PS5 7.00 - 13.60 Relapse Jailbreak Released! (No PC + WebKit Autoloader)",
-      "url": "https://www.youtube.com/watch?v=pjbg6x5B1v4",
-      "source": "Edigax",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "Announces the Relapse PS5 jailbreak covering firmware 7.00–13.60 and a WebKit autoloader that runs without a PC."
-    },
-    {
-      "title": "Dopamine 3.0 IS OUT! | iOS 26.0.1 & Older Jailbreak | Installation Guide + Important Notes",
-      "url": "https://www.youtube.com/watch?v=APetf_UrypQ",
-      "source": "Burhan Rana",
-      "date": "",
-      "category": "device",
-      "kind": "video",
-      "summary": "Covers the Dopamine 3.0 release, which adds jailbreak support up to iOS 26.0.1, with notes on its device and version limits."
-    }
-  ]
+ "generated": "2026-11-11T07:57:01+00:00",
+ "items": [
+  {
+   "title": "India's CERT-In issues AI Security Auditing guidelines targeting model poisoning, prompt injection, agentic AI threats",
+   "url": "https://industrialcyber.co/ai/indias-cert-in-issues-ai-security-auditing-guidelines-targeting-model-poisoning-prompt-injection-agentic-ai-threats/",
+   "source": "Industrial Cyber",
+   "date": "2026-11-09",
+   "category": "ai",
+   "kind": "article",
+   "summary": "India's national CERT published AI security auditing guidelines covering prompt injection, data and model poisoning, and excessive agency in agentic systems."
+  },
+  {
+   "title": "PlayStation 4 System Software Update 14.02: November 2026 Patch Notes",
+   "url": "https://asumetech.com/2026/11/05/ps4-system-software-update-14-02-patch-notes/",
+   "source": "AsumeTech",
+   "date": "2026-11-05",
+   "category": "device",
+   "kind": "article",
+   "summary": "Sony shipped PS4 firmware 14.02 on November 4 with security fixes and no new features. It arrived shortly after a public 14.00 jailbreak, but Sony has not said whether it targets that exploit."
+  },
+  {
+   "title": "Promising PS5 console jailbreak won't work on recent firmware as Sony combats exploits",
+   "url": "https://notebookcheck.net/Promising-PS5-console-jailbreak-won-t-work-on-recent-firmware-as-Sony-combats-exploits.1442248.0.html",
+   "source": "Notebookcheck",
+   "date": "2026-11-04",
+   "category": "device",
+   "kind": "article",
+   "summary": "Reports that the 'Prolapse' method aimed at PS5 firmware 14.00/14.10 is blocked by 14.20. The 14.22 update released November 2 added more security fixes."
+  },
+  {
+   "title": "exclusive: AI security company Gray Swan relaunches Red Team Arena contest to jailbreak AI agents",
+   "url": "https://fortune.com/2026/10/20/exclusive-ai-security-company-gray-swan-red-team-arena-contest-to-jailbreak-ai-agents/",
+   "source": "Fortune",
+   "date": "2026-10-20",
+   "category": "ai",
+   "kind": "article",
+   "summary": "Gray Swan is overhauling its public red-teaming platform for AI agents, adding sandboxed environments where participants can try to jailbreak agents safely."
+  },
+  {
+   "title": "New AI jailbreak: get your chatbot drunk",
+   "url": "https://pivot-to-ai.com/2026/09/30/new-ai-jailbreak-get-your-chatbot-drunk/",
+   "source": "Pivot to AI",
+   "date": "2026-09-30",
+   "category": "ai",
+   "kind": "article",
+   "summary": "Covers a UNSW paper reporting that telling chatbots to role-play as intoxicated weakened their guardrails on JailbreakBench and a private-data-leak benchmark."
+  },
+  {
+   "title": "PS4 Update 14.00 Released on September 16 Brings More of What You Expect",
+   "url": "https://mp1st.com/news/ps4-update-14-00-released-on-september-16-brings-what-you-expect",
+   "source": "MP1st",
+   "date": "2026-09-16",
+   "category": "device",
+   "kind": "article",
+   "summary": "Sony released PS4 system software 14.00, a security-focused update. Research notes say it patched the kernel bug used by earlier 13.xx exploits."
+  },
+  {
+   "title": "iOS 26 Gets First Jailbreak Thanks to Dopamine",
+   "url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
+   "source": "MacRumors",
+   "date": "2026-08-07",
+   "category": "device",
+   "kind": "article",
+   "summary": "Dopamine 3.0 is the first public iOS 26 jailbreak, arriving 326 days after iOS 26 launched. It supports only iOS 26.0–26.0.1 on A12 and A13 devices."
+  },
+  {
+   "title": "New PS4 CSSFontFace exploit turns a font bug into a big deal",
+   "url": "https://www.generationamiga.com/2026/07/08/new-ps4-cssfontface-exploit-turns-a-font-bug-into-a-big-deal/",
+   "source": "Generation Amiga",
+   "date": "2026-07-08",
+   "category": "device",
+   "kind": "article",
+   "summary": "Describes a WebKit CSSFontFace bug in the PS4 browser, with attention centred on firmware 9.00. The article says it is not a shortcut to a full jailbreak on current firmware."
+  },
+  {
+   "title": "The \"unhackable\" Xbox One has been hacked — and Microsoft can't patch it",
+   "url": "https://boingboing.net/2026/03/17/the-unhackable-xbox-one-has-been-hacked-and-microsoft-cant-patch-it.html",
+   "source": "Boing Boing",
+   "date": "2026-03-17",
+   "category": "device",
+   "kind": "article",
+   "summary": "Covers the 'Bliss' voltage double-glitch attack presented at RE//verse 2026, which bypasses the original Xbox One boot ROM. It needs physical access and is described as unpatchable in software."
+  },
+  {
+   "title": "PS4 Jailbreak For Firmware 14.00 Has Been Released, Allowing Users To Cheat In GTA Online",
+   "url": "https://twistedvoxel.com/ps4-jailbreak-firmware-14-00-released-cheat-in-gta-online/",
+   "source": "Twisted Voxel",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Reports that a browser-based jailbreak for PS4 firmware 14.00 has gone public, and notes concerns about it being used for online cheating."
+  },
+  {
+   "title": "PS4 Jailbreak on Firmware 14.00 Available",
+   "url": "https://www.consolemodding.it/en/blogs/news/ps4-jailbreak-firmware-14-00-available",
+   "source": "ConsoleModding.it",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "News post on a public WebKit-based exploit chain for PS4 firmware 14.00. Coverage says it loads a GoldHEN 2.4b18.x build that adds 14.00 support."
+  },
+  {
+   "title": "Reports of PlayStation 4 hack on firmware 14.00 have appeared",
+   "url": "https://en.gamegpu.com/news/zhelezo/poyavilis-soobshcheniya-o-vzlome-playstation-4-na-proshivke-14-00",
+   "source": "GameGPU",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Early report of a PS4 being compromised on firmware 14.00. It advised readers to stay skeptical about an imminent user-friendly release."
+  },
+  {
+   "title": "Sony Releases PS4 Firmware Update 14.02 With Security Fixes Following Recent Jailbreak",
+   "url": "https://twistedvoxel.com/ps4-firmware-update-14-02-security-fixes/",
+   "source": "Twisted Voxel",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Links Sony's PS4 14.02 security update to the recent 14.00 jailbreak, though Sony has not confirmed that the update closes those specific exploits."
+  },
+  {
+   "title": "New PS5 jailbreak works on almost every firmware version",
+   "url": "https://techspot.com/news/114037-new-ps5-jailbreak-works-almost-every-firmware-version.html",
+   "source": "TechSpot",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Covers the public 'Relapse' jailbreak released September 29, which chains a WebKit flaw with a kernel race condition. It covers PS5 firmware 7.00–13.60, including PS5 Pro."
+  },
+  {
+   "title": "New PS5 firmware update blocks Relapse jailbreak ahead of GTA 6 release",
+   "url": "https://arynews.tv/new-ps5-firmware-update-blocks-relapse-jailbreak-ahead-of-gta-6-release",
+   "source": "ARY News",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Reports that Sony's 14.x PS5 firmware updates block the Relapse exploit chain, and frames the timing around the upcoming GTA 6 launch."
+  },
+  {
+   "title": "Nintendo Pulls SmileBASIC 4 as Tethered Switch 2 Jailbreak ns2jb Appears",
+   "url": "https://theloadout.com/nintendo-pulls-smilebasic-4-as-tethered-switch-2-jailbreak-ns2jb-appears",
+   "source": "The Loadout",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Researcher pepsipu released ns2jb, a tethered, non-persistent Switch 2 jailbreak that uses SmileBASIC 4 on firmware 23.0.1. Nintendo then removed the app from some eShop storefronts."
+  },
+  {
+   "title": "Nintendo Switch 2 Gets a New Offline Userland Exploit That Works Across All Firmware Versions",
+   "url": "https://www.digitalcitizen.life/nintendo-switch-2-gets-a-new-offline-userland-exploit-that-works-across-all-firmware-versions/",
+   "source": "Digital Citizen",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Developer Gezine unveiled an offline userland exploit for Switch and Switch 2 that doesn't rely on WebKit. No kernel-level exploit has been confirmed."
+  },
+  {
+   "title": "Xbox hacked 2026: what is true",
+   "url": "https://pasqualepillitteri.it/en/news/30242/xbox-hacked-2026-what-is-true",
+   "source": "Pasquale Pillitteri",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Fact-check stating that no public jailbreak exists for Xbox Series X|S and no Xbox server breach is confirmed. It attributes the confusion to the Xbox One Bliss hack and the 2024 Collateral Damage exploit."
+  },
+  {
+   "title": "Magisk v30 vs KernelSU v3: Which Root Solution in 2026?",
+   "url": "https://thecustomrom.com/blog/magisk-v30-vs-kernelsu-v3",
+   "source": "TheCustomROM",
+   "date": "",
+   "category": "device",
+   "kind": "article",
+   "summary": "Compares the current Android root options, Magisk v30 and KernelSU v3, including KernelSU's new metamodule system and how each handles Play Integrity checks."
+  },
+  {
+   "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+   "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+   "source": "The Hacker News",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "Check Point found that 'Haiou', a free Codex jailbreak bundle, edits agent instruction files so later responses advertise a paid third-party AI gateway. Code-focused scanners can miss this kind of plain-text persistence."
+  },
+  {
+   "title": "Prompt Adware: Jailbreak Bundles, Instruction-File Persistence, and Gray-Market Gateways",
+   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-prompt-adware-agent-instruction-persistenc/",
+   "source": "Cloud Security Alliance Labs",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "CSA research note on the prompt-adware pattern, where jailbreak bundles persist through coding-agent instruction files and steer users to gray-market API gateways."
+  },
+  {
+   "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+   "source": "Tom's Hardware",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "A Brazilian labor court's AI flagged hidden white-on-white text in a filing that tried to steer its review. The lawyers were fined about $16,000."
+  },
+  {
+   "title": "OpenAI raises Bio Bounty reward to $50,000 for frontier model jailbreaks",
+   "url": "https://www.edtechinnovationhub.com/news/openai-raises-bio-bounty-reward-to-50000-for-frontier-model-jailbreaks",
+   "source": "EdTech Innovation Hub",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "Reports that OpenAI expanded its private bio-safety bug bounty to cover GPT-5.6 and GPT-5.5, raising the top reward for a universal jailbreak to $50,000."
+  },
+  {
+   "title": "Hackers Turn to AI Jailbreak Bundles as Researchers Uncover New Prompt Adware Technique",
+   "url": "https://gbhackers.com/ai-jailbreak-bundles/amp/",
+   "source": "GBHackers",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "Further coverage of the Haiou jailbreak bundle, which combines role-play and CTF-framing prompt techniques with ad-injecting instructions."
+  },
+  {
+   "title": "Red-team study of frontier Anthropic models (arXiv 2606.18193)",
+   "url": "https://www.emergentmind.com/papers/2606.18193",
+   "source": "Emergent Mind / arXiv",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "June 2026 paper that ran hundreds of thousands of adaptive and static attack attempts against Anthropic models. It concludes that adaptive attacks still expose significant residual jailbreak vulnerabilities."
+  },
+  {
+   "title": "SoK: Jailbreak attacks, defenses and evaluation (arXiv 2605.05058)",
+   "url": "https://arxiv.org/html/2605.05058v1",
+   "source": "arXiv",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "May 2026 systematization paper that benchmarks 13 jailbreak attacks against 5 defenses. It finds that attack-success-rate alone often contradicts multi-dimensional evaluations."
+  },
+  {
+   "title": "Next-generation Constitutional Classifiers",
+   "url": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+   "source": "Anthropic",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "Anthropic research update on its classifier-based jailbreak defenses. The first generation cut jailbreak success from 86% to 4.4% in testing."
+  },
+  {
+   "title": "AI jailbreaking via poetry: bypassing chatbot defenses with rhyme",
+   "url": "https://www.kaspersky.com/blog/poetry-ai-jailbreak/55171/",
+   "source": "Kaspersky",
+   "date": "",
+   "category": "ai",
+   "kind": "article",
+   "summary": "Explains a study of 25 models that found rewriting harmful requests as verse raised unsafe-response rates. Hand-picked prompts produced the highest reported bypass figures."
+  },
+  {
+   "title": "Jailbreak News: 14.22 Released, GoldHEN on 14.00, CivSwitch, BD-JB Relapse, FPKG Update & More!",
+   "url": "https://www.youtube.com/watch?v=9Zz29tcsLhg",
+   "source": "MODDED WARFARE",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "News roundup covering PS5 firmware 14.22, GoldHEN support on PS4 14.00, BD-JB Relapse and other scene updates."
+  },
+  {
+   "title": "New PS4 14.00 Jailbreak Release: What You Need to Know",
+   "url": "https://www.youtube.com/watch?v=Bl-qxDO0D9E",
+   "source": "Mod My PS",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "Overview of the newly public PS4 firmware 14.00 jailbreak and what it means for users."
+  },
+  {
+   "title": "The Current State Of The PS4 14.00 Jailbreak.",
+   "url": "https://www.youtube.com/watch?v=qO67stBj3xc",
+   "source": "TheXpertGee",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "Status update on jailbreak progress for PS4 firmware 14.00."
+  },
+  {
+   "title": "The PS4 Jailbreak Situation in 2026: Everything You Need to Know",
+   "url": "https://www.youtube.com/watch?v=YZrjOucNCH4",
+   "source": "Better Gaming",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "Explainer on which PS4 firmware versions can be jailbroken in 2026. It says support reaches 14.00 and that 14.02 has only a private demo."
+  },
+  {
+   "title": "PS4 Jailbreak News Update: BD-J Sandbox Escape Confirmed on 13.50 and below",
+   "url": "https://www.youtube.com/watch?v=EnG54Y7tfyo",
+   "source": "TheXpertGee",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "Reports a confirmed BD-J (Blu-ray Java) sandbox escape affecting PS4 firmware 13.50 and earlier."
+  },
+  {
+   "title": "PS4/PS5 Jailbreak News: New WebKit and Blu-Ray Userland exploits revealed up to the latest firmwares",
+   "url": "https://www.youtube.com/watch?v=mWX9uj0mKIQ",
+   "source": "MODDED WARFARE",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "Covers newly disclosed WebKit and Blu-ray userland bugs affecting PS4 up to 13.52 and PS5 up to 13.60."
+  },
+  {
+   "title": "PS4/PS5 Jailbreak News: 13.50 PS4 & 13.00 PS5 Firmware Released, PSVue Patched, Luac0re 2.1 & More!",
+   "url": "https://www.youtube.com/watch?v=lOX67YUr4BA",
+   "source": "MODDED WARFARE",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "News roundup on PS4 firmware 13.50 patching the Vue-after-Free exploit, the PS5 13.00 release, and a Luac0re 2.1 update."
+  },
+  {
+   "title": "PS5 7.00 - 13.60 Relapse Jailbreak Released! (No PC + WebKit Autoloader)",
+   "url": "https://www.youtube.com/watch?v=pjbg6x5B1v4",
+   "source": "Edigax",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "Announces the Relapse PS5 jailbreak covering firmware 7.00–13.60 and a WebKit autoloader that runs without a PC."
+  },
+  {
+   "title": "Dopamine 3.0 IS OUT! | iOS 26.0.1 & Older Jailbreak | Installation Guide + Important Notes",
+   "url": "https://www.youtube.com/watch?v=APetf_UrypQ",
+   "source": "Burhan Rana",
+   "date": "",
+   "category": "device",
+   "kind": "video",
+   "summary": "Covers the Dopamine 3.0 release, which adds jailbreak support up to iOS 26.0.1, with notes on its device and version limits."
+  }
+ ]
 }
