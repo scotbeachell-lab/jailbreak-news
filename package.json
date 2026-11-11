@@ -1,0 +1,23 @@
+{
+  "name": "scots-jailbreak-daily-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scots Jailbreak Daily News: device and AI jailbreak news, refreshed daily",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "bash scripts/check-placeholders.sh",
+    "deploy": "bash scripts/deploy.sh",
+    "publish:github": "bash scripts/publish-github.sh",
+    "publish:cloudflare": "bash scripts/publish-cloudflare.sh",
+    "publish:netlify": "bash scripts/publish-netlify.sh",
+    "publish:vercel": "bash scripts/publish-vercel.sh"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "tailwindcss": "^4.1.8",
+    "vite": "^6.3.5"
+  }
+}

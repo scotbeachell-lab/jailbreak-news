@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Scots Jailbreak Daily News</title>
+<meta name="description" content="Daily round-up of jailbreak news: PS4, PS5, Switch 2, iPhone and Android exploits, plus AI model jailbreak research. Articles and YouTube videos, refreshed every morning.">
+<meta property="og:title" content="Scots Jailbreak Daily News">
+<meta property="og:description" content="Daily round-up of device and AI jailbreak news, with articles and YouTube videos.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://scotbeachell-lab.github.io/jailbreak-news/">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="./favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Chakra+Petch:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/src/main.css">
+</head>
+<body>
+<a class="skip" href="#feed">Skip to stories</a>
+<header class="wrap mast">
+  <h1 class="title" aria-label="Scots Jailbreak Daily News"><span class="pre" aria-hidden="true">Scots</span><span class="word" aria-hidden="true"><span class="a">Jail</span><span class="b">break</span></span><span class="post" aria-hidden="true">Daily News</span></h1>
+  <p class="lede" id="lede">News on device and AI jailbreaks, gathered every morning.</p>
+</header>
+
+<main class="wrap">
+  <section class="lead" id="lead" aria-label="Latest story" hidden></section>
+
+  <div class="controls" role="search">
+    <div class="row1">
+      <div class="seg" role="group" aria-label="Category">
+        <button data-cat="all" aria-pressed="true">All</button>
+        <button data-cat="device" aria-pressed="false">Devices</button>
+        <button data-cat="ai" aria-pressed="false">AI</button>
+      </div>
+      <button class="vtoggle" id="vids" aria-pressed="false" hidden><span class="play sm" aria-hidden="true"></span>Videos only</button>
+      <label class="search"><span class="sr">Search stories</span>
+        <input id="q" type="search" placeholder="Search headlines and sources" autocomplete="off"></label>
+    </div>
+    <ul class="chips" id="chips" aria-label="Platform"></ul>
+  </div>
+
+  <div class="feed" id="feed" aria-live="polite"></div>
+</main>
+
+<footer class="wrap">
+  <p>Stories are found by a Claude agent that searches the web each morning at 07:00. Summaries are machine-written; follow the link to read the original.</p>
+</footer>
+
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>
